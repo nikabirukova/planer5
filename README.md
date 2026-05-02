@@ -85,4 +85,4 @@
 ## 🔗 Тестування deep links (ADB)
 
 ```bash
-adb shell am start -a android.intent.action.VIEW -d "myapp://tasks/123"
+adb shell am start -a android.intent.action.VIEW -d "myapp://tasks/1"
